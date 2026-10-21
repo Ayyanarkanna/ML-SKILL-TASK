@@ -1,5 +1,4 @@
-#Decision Tree Classifier
-
+Decision Tree Classifier
 📌 Project Overview
 This project uses Machine Learning to identify whether a URL is legitimate or a phishing URL. A Decision Tree Classifier is trained using numerical features from the PhiUSIIL Phishing URL Dataset to classify URLs and evaluate the model's performance.
 
